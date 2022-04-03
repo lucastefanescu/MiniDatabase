@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewAll">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/viewAllBTN0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn0"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn1"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn2"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn3"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn4"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn5"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn6"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn7"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn8"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn9"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn10"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn11"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn12"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn13"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn14"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn15"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn16"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn17"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn18"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn19"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn20"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn21"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn22"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn23"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn24"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn25"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn26"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn27"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn28"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn29"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn30"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn31"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn32"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn33"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn34"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn35"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn36"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn37"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN38"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn38"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/viewAllBTN39"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="onCLickViewAllBtn39"
+                android:fontFamily="@font/worksans_variablefont_wght"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
